@@ -8,7 +8,7 @@ namespace adressbook_web_tests
         [Fact]
         public void Test1()
         {
-
+            Console.WriteLine();
         }
     }
 }
